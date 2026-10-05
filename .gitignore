@@ -1,0 +1,11 @@
+*.o
+*.d
+*.out
+!outputs/*.out
+bin/
+build/
+Debug/
+.metadata/
+.DS_Store
+.vscode/
+obj_dir/
